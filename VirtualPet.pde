@@ -31,7 +31,6 @@ void setup() {
     if (x>=imgGridSizeScale*imgGridX) {
       x = 0;
       y += imgGridSizeScale;
-      println("newlie");
     }
   }
 }
